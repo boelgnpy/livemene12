@@ -3,9 +3,7 @@ new_page_extension: html
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-collections:
-  _people:
-    default_front_matter_template: person
+collections: 
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
